@@ -1,2 +1,2 @@
 This file consists of git lessions
-These changes are done by Raj.
+These changes are done by RajS.
